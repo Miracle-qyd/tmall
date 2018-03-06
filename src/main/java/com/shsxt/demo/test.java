@@ -1,6 +1,6 @@
 package com.shsxt.demo;
 
-public class Welcome {
+public class test {
 	//添加注释
 	public static void  main (String[] args) {
 		
