@@ -8,4 +8,8 @@ public class Welcome {
 		
 	}
 
+	public  class print(){
+		System.out.println("q1esdfdsf");
+	}
+
 }
